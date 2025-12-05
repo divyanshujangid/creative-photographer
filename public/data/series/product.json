@@ -1,0 +1,77 @@
+{
+  "id": "product-01",
+  "title": "Product",
+  "slug": "product",
+  "description": "Stunning product photography that brings your items to life",
+  "featured": true,
+  "images": [
+    {
+      "id": "product-001",
+      "src": "https://images.pexels.com/photos/3735149/pexels-photo-3735149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "alt": "Elegant perfume bottle on a minimalist background",
+      "aspectRatio": 0.667,
+      "caption": {
+        "subject": "Luxury Perfume",
+        "profession": "Fragrance Photography"
+      },
+      "metadata": {
+        "title": "Luxury Perfume - Product Shot",
+        "year": "2024",
+        "description": "Elegant product photography capturing the essence of luxury fragrances.",
+        "location": "Studio",
+        "series": "product"
+      }
+    },
+    {
+      "id": "product-002",
+      "src": "https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "alt": "Stylish watch on wooden surface",
+      "aspectRatio": 0.667,
+      "caption": {
+        "subject": "Timepiece Collection",
+        "profession": "Watch Photography"
+      },
+      "metadata": {
+        "title": "Timepiece Collection - Product Shot",
+        "year": "2024",
+        "description": "Capturing the craftsmanship and elegance of fine timepieces.",
+        "location": "Studio",
+        "series": "product"
+      }
+    },
+    {
+      "id": "product-003",
+      "src": "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "alt": "Premium skincare products arranged elegantly",
+      "aspectRatio": 0.8,
+      "caption": {
+        "subject": "Skincare Line",
+        "profession": "Beauty Photography"
+      },
+      "metadata": {
+        "title": "Skincare Line - Product Shot",
+        "year": "2024",
+        "description": "Clean and sophisticated product photography for skincare brands.",
+        "location": "Studio",
+        "series": "product"
+      }
+    },
+    {
+      "id": "product-004",
+      "src": "https://images.pexels.com/photos/2536965/pexels-photo-2536965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "alt": "Artisan coffee beans and brewing equipment",
+      "aspectRatio": 0.667,
+      "caption": {
+        "subject": "Artisan Coffee",
+        "profession": "Food & Beverage Photography"
+      },
+      "metadata": {
+        "title": "Artisan Coffee - Product Shot",
+        "year": "2024",
+        "description": "Warm and inviting product photography for coffee brands.",
+        "location": "Studio",
+        "series": "product"
+      }
+    }
+  ]
+}
