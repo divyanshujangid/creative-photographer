@@ -30,6 +30,9 @@ export function HeaderNavigation() {
         <div className="flex justify-between md:justify-start w-full md:w-fit md:flex-col gap-4">
           {/* Title */}
           <Link to="/" className="flex-shrink-0">
+            <span className="block text-xs sm:text-sm font-medium tracking-widest uppercase text-muted-foreground">
+              Photuwalebhaiyaan
+            </span>
             <h1 className="font-sans text-2xl sm:text-[2.1rem] lg:text-[2.4rem] leading-tight font-bold tracking-tight text-foreground hover:opacity-80 transition-opacity">
               {photographer.name}
             </h1>
