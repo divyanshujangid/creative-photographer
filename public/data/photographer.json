@@ -47,7 +47,7 @@
     }
   ],
   "portraitImage": {
-    "src": "/src/context/pwb.jpeg",
+    "src": "src/assets/pwb.jpeg",
     "alt": "Portrait of Ketan Doru, friendly photographer with camera"
   }
 }
