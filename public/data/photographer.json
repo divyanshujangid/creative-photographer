@@ -47,10 +47,7 @@
     }
   ],
   "portraitImage": {
-    "src": "https://images.pexels.com/photos/7014866/pexels-photo-7014866.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "alt": "Portrait of Ketan Doru, friendly photographer with camera",
-    "photographer": "George Milton",
-    "photographerUrl": "https://www.pexels.com/@george-milton",
-    "pexelsUrl": "https://www.pexels.com/photo/positive-woman-with-photo-camera-sitting-in-living-room-7014866/"
+    "src": "/src/context/pwb.jpeg",
+    "alt": "Portrait of Ketan Doru, friendly photographer with camera"
   }
 }
