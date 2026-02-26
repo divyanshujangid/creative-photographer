@@ -7,7 +7,7 @@
   "images": [
     {
       "id": "portraits-001",
-      "src": "https://images.pexels.com/photos/19456424/pexels-photo-19456424.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "/assets/Portrait-1.jpeg",
       "alt": "Casual portrait of a smiling young man in a denim jacket and red t-shirt, captured in a studio.",
       "aspectRatio": 0.718,
       "caption": {
